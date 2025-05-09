@@ -2,3 +2,4 @@ ipykernel
 pandas
 scikit-learn
 matplotlib
+seaborn
